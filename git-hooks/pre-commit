@@ -1,0 +1,3 @@
+#!/bin/bash
+# Universal pre-commit hook
+./control-plane/build-validation/validate-all.sh

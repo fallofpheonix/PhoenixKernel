@@ -1,0 +1,3 @@
+# Ruff Profile: strict
+select = ["ALL"]
+ignore = ["D100", "D104"]
