@@ -1,7 +1,6 @@
 package runtime
 
 import (
-	"fmt"
 	"github.com/fallofpheonix/phoenix-os/phoenix_os/bus"
 )
 

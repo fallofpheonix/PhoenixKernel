@@ -1,8 +1,5 @@
 package runtime
 
-import (
-	"runtime"
-)
 
 // AffinityRunner manages CPU affinity for deterministic replay.
 type AffinityRunner struct {
