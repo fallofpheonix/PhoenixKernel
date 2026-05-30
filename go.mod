@@ -1,7 +1,11 @@
 module github.com/fallofpheonix/PheonixKernel
 
-go 1.25.0
+go 1.26
 
-require github.com/cilium/ebpf v0.21.0
+replace github.com/fallofpheonix/PheonixCore => ../PheonixCore
 
-require golang.org/x/sys v0.37.0 // indirect
+require (
+	github.com/cilium/ebpf v0.17.3
+	github.com/fallofpheonix/PheonixCore v0.0.0
+	golang.org/x/sys v0.30.0
+)

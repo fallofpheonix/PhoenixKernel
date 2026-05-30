@@ -1,7 +1,7 @@
 package runtime
 
 import (
-	"github.com/fallofpheonix/phoenix-os/phoenix_os/bus"
+	"github.com/fallofpheonix/PheonixCore/bus"
 )
 
 // ReplayBridge connects the replay engine to the live kernel bus.

@@ -1,7 +1,7 @@
 package runtime
 
 import (
-	"github.com/fallofpheonix/phoenix-os/phoenix_os/bus"
+	"github.com/fallofpheonix/PheonixCore/bus"
 )
 
 // RingMonitor tracks pressure and drops in the eBPF ring buffer.

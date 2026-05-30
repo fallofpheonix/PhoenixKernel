@@ -1,7 +1,7 @@
 package runtime
 
 import (
-	"github.com/fallofpheonix/phoenix-os/phoenix_os/bus"
+	"github.com/fallofpheonix/PheonixCore/bus"
 )
 
 // ProbeInjector simulates the injection of events into the eBPF ring buffer.
